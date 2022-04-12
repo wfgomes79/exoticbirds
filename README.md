@@ -3,10 +3,10 @@ Sistema de Cadastro de Criador de Pássaros Exóticos, controle de postura, nata
 
 
 1 - Cadastro do Criador (todas as informações)<br>
-2 - Cadastro individual do Pássaro, com fotos e definição de sexo, número da anilha, criador, proprietário
-3 - Cadastro de Formação de Casais para acasalamento
-4 - Controle postura dos casais acasalados
-5 - Cadastro dos Filhotes (Sexo Indefinido)
-6 - Controle de Muda Adultos/Filhotes
-7 - Controle de Medicamentos (com lembrete)
+2 - Cadastro individual do Pássaro, com fotos e definição de sexo, número da anilha, criador, proprietário<br>
+3 - Cadastro de Formação de Casais para acasalamento<br>
+4 - Controle postura dos casais acasalados<br>
+5 - Cadastro dos Filhotes (Sexo Indefinido)<br>
+6 - Controle de Muda Adultos/Filhotes<br>
+7 - Controle de Medicamentos (com lembrete)<br>
 8 - 
